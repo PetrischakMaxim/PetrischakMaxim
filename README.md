@@ -1,6 +1,6 @@
 # Maks Petryshchak - Frontend Developer
 
-Performance UI · Jamstack (Astro) · PageSpeed 95+ · Open to Part-Time Remote
+Performance UI | Jamstack (Astro) | PageSpeed 95+ | Open to Full-Time & Part-Time Remote
 
 ---
 
@@ -52,9 +52,9 @@ Git · npm · Cursor · AI-assisted development
 |---------|-------------|-------|
 | [cryptowalletatlas.com](https://cryptowalletatlas.com) | Crypto & internet safety blog | Astro · SSG · SEO-first |
 | [yourfintech.com](https://yourfintech.com) | Corporate website + blog | Astro · Headless CMS |
-| [trafficgold.com](https://trafficgold.com) | Marketing website + blog | Jamstack · GA · Pixels |
-| [corporatebylegacy.com](https://corporatebylegacy.com) | Corporate wellness website | Calendly · Tawk · Responsive |
-| [adthorized.com](https://adthorized.com) | Marketing website + blog | Stripe · Zapier · SEO |
+| [trafficgold.com](https://trafficgold.com) | Marketing website + blog | Wordpress · GA · Pixels |
+| [corporatebylegacy.com](https://corporatebylegacy.com) | Corporate wellness website | Astro · Tawk · Responsive |
+| [adthorized.com](https://adthorized.com) | Marketing website + blog | Wordpress · Zapier · SEO |
 
 ---
 
