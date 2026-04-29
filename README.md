@@ -51,12 +51,17 @@ Git · npm · Cursor · AI-assisted development
 | Project | Description | Stack |
 |---------|-------------|-------|
 
-| [asignatures.mt](https://asignatures.mt) | Luxury Apartments & Suites Malta website | Astro · SSG · SEO-first |
-| [cryptowalletatlas.com](https://cryptowalletatlas.com) | Crypto & internet safety blog | Astro · SSG · SEO-first |
-| [yourfintech.com](https://yourfintech.com) | Corporate website + blog | Astro · Headless CMS |
-| [corporatebylegacy.com](https://corporatebylegacy.com) | Corporate wellness website | Astro · Tawk · Responsive |
-| [trafficgold.com](https://trafficgold.com) | Marketing website + blog | Wordpress · GA · Pixels |
-| [adthorized.com](https://adthorized.com) | Marketing website + blog | Wordpress · Zapier · SEO |
+[asignatures.mt](https://asignatures.mt) | Luxury Apartments & Suites Malta website | Astro · SSG · SEO-first |
+
+[cryptowalletatlas.com](https://cryptowalletatlas.com) | Crypto & internet safety blog | Astro · SSG · SEO-first |
+
+[yourfintech.com](https://yourfintech.com) | Corporate website + blog | Astro · Headless CMS |
+
+[corporatebylegacy.com](https://corporatebylegacy.com) | Corporate wellness website | Astro · Tawk · Responsive |
+
+[trafficgold.com](https://trafficgold.com) | Marketing website + blog | Wordpress · GA · Pixels |
+
+[adthorized.com](https://adthorized.com) | Marketing website + blog | Wordpress · Zapier · SEO |
 
 ---
 
